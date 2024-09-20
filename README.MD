@@ -6,9 +6,6 @@ A simple React app built with React & React Router Dom.
 Hosted in Netlify -> [nextPage](https://proreader.netlify.app/)
 
 
-## Starter Template
-Github Repo -> [nextPage-starter](https://github.com/shakilahmedatik/nextPage-starter)
-
 ## API 
 
 Documentation Link -> [It Bookstore API](https://api.itbook.store/)
